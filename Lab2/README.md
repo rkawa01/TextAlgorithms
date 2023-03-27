@@ -1,7 +1,11 @@
+ 
+# Lab 2
+
 Zadanie polega na implementacji dwóch algorytmów kompresji:
 
-statycznego algorytmu Huffmana (2 p)
-dynamicznego algorytmu Huffmana (3 p)
+  1. statycznego algorytmu Huffmana (2 p)
+  2. dynamicznego algorytmu Huffmana (3 p)
+
 Dla każdego z algorytmów należy wykonać następujące zadania:
 
 Opracować format pliku przechowującego dane. Zwróć uwagę na dwie kwestie:
